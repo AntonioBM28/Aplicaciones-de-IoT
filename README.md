@@ -11,3 +11,14 @@
 </div>
 
 ## Parte Practica (parejas)
+
+[Codigo](https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Conexion.py)
+[Video](https://drive.google.com/file/d/1rjljo-nKwTh2PHkWmnwgj7zHQewwctTa/view?usp=drive_link)
+
+Diagrama
+
+ <img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Sensor_Actuador.png" width="350"/>
+
+ ## Ejercicios en Clase
+
+ 
