@@ -30,8 +30,11 @@ Diagrama
  - [ConfigRasp](https://drive.google.com/file/d/1Og4nzOtQmqiC7PWkIBLCEkDYoinAr461/view?usp=drive_link)
 
 ## Soldadura
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Placa.png" width="350"/>
+    
+</div>
 
-<img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Placa.png" width="350"/>
 
  
 
