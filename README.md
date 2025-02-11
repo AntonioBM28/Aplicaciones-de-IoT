@@ -32,6 +32,8 @@ Diagrama
 ## Soldadura
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Placa.png" width="350"/>
+    <img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Steve1.png" width="350"/>
+    <img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Steve2.png" width="350"/>
     
 </div>
 
