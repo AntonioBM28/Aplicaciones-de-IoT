@@ -31,7 +31,7 @@ Diagrama
 
 ## Soldadura
 
-<img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Placa.jpg" width="350"/>
+<img src="https://github.com/AntonioBM28/Aplicaciones-de-IoT/blob/main/Placa.png" width="350"/>
 
  
 
